@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="DarkMode">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/frontend/public/DarkMode.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
